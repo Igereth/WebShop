@@ -1,0 +1,71 @@
+C:\Users\HalbT\OneDrive\Desktop\Web Shop Docker\WebShop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\HalbT\OneDrive\Desktop\Web Shop Docker\WebShop\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\HalbT\OneDrive\Desktop\Web Shop Docker\WebShop\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\HalbT\OneDrive\Desktop\Web Shop Docker\WebShop\bin\Debug\netcoreapp3.1\WebShop.exe
+C:\Users\HalbT\OneDrive\Desktop\Web Shop Docker\WebShop\obj\Debug\netcoreapp3.1\WebShop.csprojAssemblyReference.cache
+C:\Users\HalbT\OneDrive\Desktop\Web Shop Docker\WebShop\obj\Debug\netcoreapp3.1\WebShop.RazorAssemblyInfo.cache
+C:\Users\HalbT\OneDrive\Desktop\Web Shop Docker\WebShop\obj\Debug\netcoreapp3.1\WebShop.RazorAssemblyInfo.cs
+C:\Users\HalbT\OneDrive\Desktop\Web Shop Docker\WebShop\obj\Debug\netcoreapp3.1\WebShop.AssemblyInfoInputs.cache
+C:\Users\HalbT\OneDrive\Desktop\Web Shop Docker\WebShop\obj\Debug\netcoreapp3.1\WebShop.AssemblyInfo.cs
+C:\Users\HalbT\OneDrive\Desktop\Web Shop Docker\WebShop\obj\Debug\netcoreapp3.1\WebShop.TagHelpers.input.cache
+C:\Users\HalbT\OneDrive\Desktop\Web Shop Docker\WebShop\obj\Debug\netcoreapp3.1\WebShop.TagHelpers.output.cache
+C:\Users\HalbT\OneDrive\Desktop\Web Shop Docker\WebShop\obj\Debug\netcoreapp3.1\WebShop.RazorCoreGenerate.cache
+C:\Users\HalbT\OneDrive\Desktop\Web Shop Docker\WebShop\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\HalbT\OneDrive\Desktop\Web Shop Docker\WebShop\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\HalbT\OneDrive\Desktop\Web Shop Docker\WebShop\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\HalbT\OneDrive\Desktop\Web Shop Docker\WebShop\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\HalbT\OneDrive\Desktop\Web Shop Docker\WebShop\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\HalbT\OneDrive\Desktop\Web Shop Docker\WebShop\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\HalbT\OneDrive\Desktop\Web Shop Docker\WebShop\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\HalbT\OneDrive\Desktop\Web Shop Docker\WebShop\obj\Debug\netcoreapp3.1\WebShop.RazorTargetAssemblyInfo.cache
+C:\Users\HalbT\OneDrive\Desktop\Web Shop Docker\WebShop\obj\Debug\netcoreapp3.1\WebShop.RazorTargetAssemblyInfo.cs
+C:\Users\HalbT\OneDrive\Desktop\Web Shop Docker\WebShop\obj\Debug\netcoreapp3.1\staticwebassets\WebShop.StaticWebAssets.Manifest.cache
+C:\Users\HalbT\OneDrive\Desktop\Web Shop Docker\WebShop\obj\Debug\netcoreapp3.1\staticwebassets\WebShop.StaticWebAssets.xml
+C:\Users\HalbT\OneDrive\Desktop\Web Shop Docker\WebShop\bin\Debug\netcoreapp3.1\WebShop.deps.json
+C:\Users\HalbT\OneDrive\Desktop\Web Shop Docker\WebShop\bin\Debug\netcoreapp3.1\WebShop.runtimeconfig.json
+C:\Users\HalbT\OneDrive\Desktop\Web Shop Docker\WebShop\bin\Debug\netcoreapp3.1\WebShop.runtimeconfig.dev.json
+C:\Users\HalbT\OneDrive\Desktop\Web Shop Docker\WebShop\bin\Debug\netcoreapp3.1\WebShop.dll
+C:\Users\HalbT\OneDrive\Desktop\Web Shop Docker\WebShop\bin\Debug\netcoreapp3.1\WebShop.pdb
+C:\Users\HalbT\OneDrive\Desktop\Web Shop Docker\WebShop\bin\Debug\netcoreapp3.1\WebShop.Views.dll
+C:\Users\HalbT\OneDrive\Desktop\Web Shop Docker\WebShop\bin\Debug\netcoreapp3.1\WebShop.Views.pdb
+C:\Users\HalbT\OneDrive\Desktop\Web Shop Docker\WebShop\obj\Debug\netcoreapp3.1\WebShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HalbT\OneDrive\Desktop\Web Shop Docker\WebShop\obj\Debug\netcoreapp3.1\WebShop.Views.pdb
+C:\Users\HalbT\OneDrive\Desktop\Web Shop Docker\WebShop\obj\Debug\netcoreapp3.1\WebShop.dll
+C:\Users\HalbT\OneDrive\Desktop\Web Shop Docker\WebShop\obj\Debug\netcoreapp3.1\WebShop.pdb
+C:\Users\HalbT\OneDrive\Desktop\Web Shop Docker\WebShop\obj\Debug\netcoreapp3.1\WebShop.csproj.CopyComplete
+C:\Users\HalbT\Source\Repos\WebShop\obj\Debug\netcoreapp3.1\WebShop.csprojAssemblyReference.cache
+C:\Users\HalbT\Source\Repos\WebShop\obj\Debug\netcoreapp3.1\WebShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HalbT\Source\Repos\WebShop\obj\Debug\netcoreapp3.1\WebShop.RazorAssemblyInfo.cache
+C:\Users\HalbT\Source\Repos\WebShop\obj\Debug\netcoreapp3.1\WebShop.RazorAssemblyInfo.cs
+C:\Users\HalbT\Source\Repos\WebShop\obj\Debug\netcoreapp3.1\WebShop.AssemblyInfoInputs.cache
+C:\Users\HalbT\Source\Repos\WebShop\obj\Debug\netcoreapp3.1\WebShop.AssemblyInfo.cs
+C:\Users\HalbT\Source\Repos\WebShop\obj\Debug\netcoreapp3.1\WebShop.dll
+C:\Users\HalbT\Source\Repos\WebShop\obj\Debug\netcoreapp3.1\WebShop.pdb
+C:\Users\HalbT\Source\Repos\WebShop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\HalbT\Source\Repos\WebShop\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\HalbT\Source\Repos\WebShop\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\HalbT\Source\Repos\WebShop\bin\Debug\netcoreapp3.1\WebShop.exe
+C:\Users\HalbT\Source\Repos\WebShop\bin\Debug\netcoreapp3.1\WebShop.deps.json
+C:\Users\HalbT\Source\Repos\WebShop\bin\Debug\netcoreapp3.1\WebShop.runtimeconfig.json
+C:\Users\HalbT\Source\Repos\WebShop\bin\Debug\netcoreapp3.1\WebShop.runtimeconfig.dev.json
+C:\Users\HalbT\Source\Repos\WebShop\bin\Debug\netcoreapp3.1\WebShop.dll
+C:\Users\HalbT\Source\Repos\WebShop\bin\Debug\netcoreapp3.1\WebShop.pdb
+C:\Users\HalbT\Source\Repos\WebShop\bin\Debug\netcoreapp3.1\WebShop.Views.dll
+C:\Users\HalbT\Source\Repos\WebShop\bin\Debug\netcoreapp3.1\WebShop.Views.pdb
+C:\Users\HalbT\Source\Repos\WebShop\obj\Debug\netcoreapp3.1\WebShop.TagHelpers.input.cache
+C:\Users\HalbT\Source\Repos\WebShop\obj\Debug\netcoreapp3.1\WebShop.TagHelpers.output.cache
+C:\Users\HalbT\Source\Repos\WebShop\obj\Debug\netcoreapp3.1\WebShop.RazorCoreGenerate.cache
+C:\Users\HalbT\Source\Repos\WebShop\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\HalbT\Source\Repos\WebShop\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\HalbT\Source\Repos\WebShop\obj\Debug\netcoreapp3.1\Razor\Pages\Lager.cshtml.g.cs
+C:\Users\HalbT\Source\Repos\WebShop\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\HalbT\Source\Repos\WebShop\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\HalbT\Source\Repos\WebShop\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\HalbT\Source\Repos\WebShop\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\HalbT\Source\Repos\WebShop\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\HalbT\Source\Repos\WebShop\obj\Debug\netcoreapp3.1\WebShop.RazorTargetAssemblyInfo.cache
+C:\Users\HalbT\Source\Repos\WebShop\obj\Debug\netcoreapp3.1\WebShop.RazorTargetAssemblyInfo.cs
+C:\Users\HalbT\Source\Repos\WebShop\obj\Debug\netcoreapp3.1\WebShop.Views.pdb
+C:\Users\HalbT\Source\Repos\WebShop\obj\Debug\netcoreapp3.1\staticwebassets\WebShop.StaticWebAssets.Manifest.cache
+C:\Users\HalbT\Source\Repos\WebShop\obj\Debug\netcoreapp3.1\staticwebassets\WebShop.StaticWebAssets.xml
+C:\Users\HalbT\Source\Repos\WebShop\obj\Debug\netcoreapp3.1\WebShop.csproj.CopyComplete

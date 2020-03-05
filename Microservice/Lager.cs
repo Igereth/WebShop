@@ -25,7 +25,7 @@ namespace WebShop.Microservice
 		{
 			bool Ergebniss = true;
 			ProduktUebersicht PU = new ProduktUebersicht();
-
+			
 			for (int i = 0; i < Produkte.Count; i++)
 			{
 				if (Produkte[i].produkt == produkt)
@@ -34,7 +34,7 @@ namespace WebShop.Microservice
 					break;
 				}
 			}
-
+			
 			if (Ergebniss)
 			{
 				PU.produkt = produkt;
@@ -44,10 +44,29 @@ namespace WebShop.Microservice
 			return Ergebniss;
 		}
 
+		public bool ProduktBeschreibungAktualisieren(Produkt produkt)
+		{
+			bool Ergebniss = false;
+			ProduktUebersicht PU = new ProduktUebersicht();
+
+			for (int i = 0; i < Produkte.Count; i++)
+			{
+				if (Produkte[i].produkt.ID == produkt.ID)
+				{
+					PU.produkt = produkt;
+					Produkte[i] = PU;
+					Ergebniss = true;
+					break;
+				}
+			}
+
+			return Ergebniss;
+		}
+
 		public bool ProduktReservieren(int ProduktId, int Anzahl)
 		{
 			bool Ergebniss = false;
-
+			
 			for (int i = 0; i < Produkte.Count; i++)
 			{
 				if (Produkte[i].produkt.ID == ProduktId)
